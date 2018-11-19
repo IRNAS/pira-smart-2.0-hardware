@@ -1,0 +1,39 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model RN4871-I_RM128
+#/833704/49873/2.35/16/4/Integrated Circuit
+DEF RN4871-I_RM128 IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "RN4871-I_RM128" 1150 200 50 H V L CNN
+F2 "RN4871" 1150 100 50 H I L CNN
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/50002489C.pdf" 1150 0 50 H I L CNN
+F4 "Bluetooth / 802.15.1 Modules Bluetooth 4.2 BLE Module, ASCII Interface, Shielded, Antenna, 9x11.5mm, Industrial Temp" 1150 -100 50 H I L CNN "Description"
+F5 "" 1150 -200 50 H I L CNN "Height"
+F6 "Microchip" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "RN4871-I/RM128" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "1372666" 1150 -500 50 H I L CNN "RS Part Number"
+F9 "http://uk.rs-online.com/web/p/products/1372666" 1150 -600 50 H I L CNN "RS Price/Stock"
+F10 "RN4871-I/RM128" 1150 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/rn4871-irm128/microchip-technology" 1150 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X NC 1 0 0 200 R 50 50 0 0 B
+X GND_1 2 0 -100 200 R 50 50 0 0 B
+X P1_2 3 0 -200 200 R 50 50 0 0 B
+X P1_3 4 0 -300 200 R 50 50 0 0 B
+X P1_7 5 0 -400 200 R 50 50 0 0 B
+X P1_6 6 0 -500 200 R 50 50 0 0 B
+X UART_RX 7 0 -600 200 R 50 50 0 0 B
+X UART_TX 8 0 -700 200 R 50 50 0 0 B
+X P3_6 9 1300 0 200 L 50 50 0 0 B
+X RST_N 10 1300 -100 200 L 50 50 0 0 B
+X P0_0 11 1300 -200 200 L 50 50 0 0 B
+X P0_2 12 1300 -300 200 L 50 50 0 0 B
+X GND_2 13 1300 -400 200 L 50 50 0 0 B
+X VBAT 14 1300 -500 200 L 50 50 0 0 B
+X P2_7 15 1300 -600 200 L 50 50 0 0 B
+X P2_0 16 1300 -700 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 1100 100 1100 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

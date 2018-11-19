@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Goran\Documents\Repositories\pira-smart-hardware\pira-smart-PCB\pira-smart-pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pira-smart-pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pira-smart-pcb-slotholes.txt|DrillLayers=gtl,gbl
