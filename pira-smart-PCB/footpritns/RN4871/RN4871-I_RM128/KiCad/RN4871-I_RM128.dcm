@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP RN4871-I_RM128
-D Bluetooth / 802.15.1 Modules Bluetooth 4.2 BLE Module, ASCII Interface, Shielded, Antenna, 9x11.5mm, Industrial Temp
-K
-F http://ww1.microchip.com/downloads/en/DeviceDoc/50002489C.pdf
-$ENDCMP
-#
-#End Doc Library

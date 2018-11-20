@@ -44,7 +44,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -138,6 +138,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMWQDENA
+
+[Document7]
+DocumentPath=D:\OneDrive\Altium_lib\Resistors\Project Outputs for Resistors\Resistors.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=D:\OneDrive\Altium_lib\Capacitors\Project Outputs for Capacitors\Capacitors.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=F3BC1554-DC0A-400B-84DD-10D34F3CDCC8
@@ -251,20 +285,20 @@ DocumentPath=Project Outputs for pira-smart-PCB\Gerber\pira-smart-pcb.RUL
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Company
-Value=IRNAS
+Name=Website
+Value=irnas.eu
 
 [Parameter2]
+Name=Version
+Value=v2.0
+
+[Parameter3]
 Name=ProjectTitle
 Value=PiRa-Smart
 
-[Parameter3]
-Name=Version
-Value=v0.2
-
 [Parameter4]
-Name=Website
-Value=irnas.eu
+Name=Company
+Value=IRNAS
 
 [Configuration1]
 Name=Sources
