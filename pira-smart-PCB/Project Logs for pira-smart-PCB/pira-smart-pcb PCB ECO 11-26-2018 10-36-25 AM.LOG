@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=PAGE2-BLE, POWER, LORA Member=T3
+Removed Member From Class: ClassName=PAGE2-BLE, POWER, LORA Member=T4
+Removed Member From Class: ClassName=PAGE2-BLE, POWER, LORA Member=T5
+Removed Member From Class: ClassName=PAGE2-BLE, POWER, LORA Member=T7
+Removed Member From Class: ClassName=PAGE2-BLE, POWER, LORA Member=T8
+Added Component: Designator=TP1(Test_pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(Test_pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(Test_pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(Test_pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP5(Test_pad)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetTP1_1 Pin=TP1-1
+Added Pin To Net: NetName=NetTP1_1 Pin=U6-8
+Added Net: Name=NetTP1_1
+Added Pin To Net: NetName=NetTP2_1 Pin=TP2-1
+Added Pin To Net: NetName=NetTP2_1 Pin=U6-9
+Added Net: Name=NetTP2_1
+Added Pin To Net: NetName=NetTP3_1 Pin=TP3-1
+Added Pin To Net: NetName=NetTP3_1 Pin=U6-10
+Added Net: Name=NetTP3_1
+Added Pin To Net: NetName=NetTP4_1 Pin=TP4-1
+Added Pin To Net: NetName=NetTP4_1 Pin=U6-11
+Added Net: Name=NetTP4_1
+Added Pin To Net: NetName=NetTP5_1 Pin=TP5-1
+Added Pin To Net: NetName=NetTP5_1 Pin=U6-12
+Added Net: Name=NetTP5_1
+Added Member To Class: ClassName=PAGE2-BLE, POWER, LORA Member=Component TP1 Test_pad
+Added Member To Class: ClassName=PAGE2-BLE, POWER, LORA Member=Component TP2 Test_pad
+Added Member To Class: ClassName=PAGE2-BLE, POWER, LORA Member=Component TP3 Test_pad
+Added Member To Class: ClassName=PAGE2-BLE, POWER, LORA Member=Component TP4 Test_pad
+Added Member To Class: ClassName=PAGE2-BLE, POWER, LORA Member=Component TP5 Test_pad
