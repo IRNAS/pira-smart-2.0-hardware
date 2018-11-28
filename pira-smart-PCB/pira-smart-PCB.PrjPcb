@@ -55,7 +55,24 @@ GenerateClassCluster=0
 DocumentUniqueId=AIDPLLEE
 
 [Document2]
-DocumentPath=PAGE2-BLE, POWER, LORA.SchDoc
+DocumentPath=PAGE3-BLE, LORA, RTC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=URRPLDXY
+
+[Document3]
+DocumentPath=PAGE2-POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWTVQMRM
 
-[Document3]
+[Document4]
 DocumentPath=pira-smart-schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AKFEYUPD
 
-[Document4]
+[Document5]
 DocumentPath=pira-smart-pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRUBROCI
 
-[Document5]
+[Document6]
 DocumentPath=pira-smart-PCB.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=pira-smart-pcblib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
