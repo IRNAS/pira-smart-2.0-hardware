@@ -1,20 +1,20 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: pira-smart-pcb.GBR   5/11/2018  11:19:59 AM
+Gerber File Extension Report For: pira-smart-pcb.GBR   11/30/2018  10:57:58 PM
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
-.GTL                Top Layer                               
-.GBL                Bottom Layer                            
 .GTO                Top Overlay                             
 .GTP                Top Paste                               
 .GTS                Top Solder                              
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GKO                Keep-Out Layer                          
 .GM1                Mechanical 1                            
 .GM29               Mechanical 29                           
+.GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------
