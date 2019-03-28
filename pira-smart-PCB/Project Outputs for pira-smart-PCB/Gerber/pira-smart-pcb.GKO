@@ -1,5 +1,5 @@
 G04*
-G04 #@! TF.GenerationSoftware,Altium Limited,Altium Designer,18.1.9 (240)*
+G04 #@! TF.GenerationSoftware,Altium Limited,Altium Designer,19.0.14 (431)*
 G04*
 G04 Layer_Color=16711935*
 %FSAX25Y25*%
@@ -7,8 +7,8 @@ G04 Layer_Color=16711935*
 G70*
 G01*
 G75*
-%ADD147C,0.00300*%
-D147*
+%ADD142C,0.00300*%
+D142*
 X0119407Y0226903D02*
 G03*
 X0107400Y0214894I0000002J-0012009D01*

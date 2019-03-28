@@ -171,16 +171,15 @@ UniqueID=733897DC-1480-4F0F-BFB9-387ECC7AA2ED
 Description=V1.0 Assembly
 AllowFabrication=0
 ParameterCount=0
-VariationCount=9
+VariationCount=8
 Variation1=Designator=R2|UniqueId=\HMFFIHGI|Kind=1|AlternatePart= 
 Variation2=Designator=R8|UniqueId=\BDIEQBGQ|Kind=1|AlternatePart= 
-Variation3=Designator=R32|UniqueId=\JXGBKDIX|Kind=1|AlternatePart= 
-Variation4=Designator=P6|UniqueId=\BURIYFMP|Kind=1|AlternatePart= 
-Variation5=Designator=P5|UniqueId=\RJUQSDDL|Kind=1|AlternatePart= 
+Variation3=Designator=R32|UniqueId=\GEVVRPRT|Kind=1|AlternatePart= 
+Variation4=Designator=P6|UniqueId=\NOTBFKBK|Kind=1|AlternatePart= 
+Variation5=Designator=P5|UniqueId=\JGQBCIUA|Kind=1|AlternatePart= 
 Variation6=Designator=P3|UniqueId=\UTPDWDRU|Kind=1|AlternatePart= 
 Variation7=Designator=P1|UniqueId=\SLJLQHML|Kind=1|AlternatePart= 
-Variation8=Designator=P8|UniqueId=\TJRSURVL|Kind=1|AlternatePart= 
-Variation9=Designator=P7|UniqueId=\XUBNFEBN|Kind=1|AlternatePart= 
+Variation8=Designator=P8|UniqueId=\AIPUTDKF|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -277,7 +276,7 @@ Value=PiRa-Smart
 
 [Parameter3]
 Name=Version
-Value=v2.0
+Value=v2_1
 
 [Parameter4]
 Name=Website
@@ -441,7 +440,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Samsung SCX-4x24 Series PCL6 Class Driver
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -859,6 +858,11 @@ OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=BOM_Violations
+OutputName7=BOM Checks Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -1039,6 +1043,7 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
+Type117=1
 
 [Difference Levels]
 Type1=1
@@ -1106,6 +1111,7 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
+Type66=1
 
 [Electrical Rules Check]
 Type1=1
