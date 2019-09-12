@@ -1,8 +1,0 @@
-Change component parameters: Designator = "U6"; Footprint = "Lora Module ES0"; UniqueID = "\GFSENABY"
-Change component parameters. Clean all parameters for all variants
-Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CMWX1ZZABZ-091"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=11.7, 5=11.06, 10=9.94, 50=9.54, 100=9.14, 250=8.05 (GBP)"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Stock 1"; Value = "175"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2802546"; VariantName = "[No Variations]"

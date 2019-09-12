@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=VBAT Pin=R29-1
-Removed Pin From Net: NetName=VBAT Pin=R32-2
-Removed Pin From Net: NetName=VBAT Pin=U6-21
-Added Pin To Net: NetName=NetR29_1 Pin=R29-1
-Added Pin To Net: NetName=NetR29_1 Pin=R32-2
-Added Pin To Net: NetName=NetR29_1 Pin=U6-21
-Added Net: Name=NetR29_1
