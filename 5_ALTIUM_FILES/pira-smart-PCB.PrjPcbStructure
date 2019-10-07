@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=PAGE1-CONTENTS.SchDoc
+Record=SheetSymbol|SourceDocument=PAGE1-CONTENTS.SchDoc|Designator=BLE, LORA, RTC|SchDesignator=BLE, LORA, RTC|FileName=PAGE3-BLE, LORA, RTC.SchDoc|SymbolType=Normal|RawFileName=PAGE3-BLE, LORA, RTC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PAGE1-CONTENTS.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=PAGE2-POWER.SchDoc|SymbolType=Normal|RawFileName=PAGE2-POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
