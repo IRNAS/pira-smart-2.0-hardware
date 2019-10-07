@@ -1,1 +1,0 @@
-.lib format is compatible with Protel 99 or Altium Design
