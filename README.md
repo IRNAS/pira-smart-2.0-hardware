@@ -12,7 +12,7 @@ PIRA Smart is a multifunctional device that can be used in any IoT project.
  * folder [3_OUTPUT_FILES](https://github.com/IRNAS/pira-smart-2.0-hardware/tree/development/3_OUTPUT_FILES) includes Gerber and NC Drill files, PDF Assembly file and Bill of Material
  * folder [4_DOC](https://github.com/IRNAS/pira-smart-2.0-hardware/tree/development/4_DOC) includes 3D step model of PCB and photos of device
  * folder [5_ALTIUM_FILES](https://github.com/IRNAS/pira-smart-2.0-hardware/tree/development/5_ALTIUM_FILES) incudes all Altium Designer files (Libraries, Output job, Project document, ...)
- * folder [6_RELEASE](https://github.com/IRNAS/pira-smart-2.0-hardware/tree/development/6_RELEASE/pira-smart-PCB/v2_1S) includes latest release [version 2.1](https://github.com/IRNAS/pira-smart-2.0-hardware/tree/development/6_RELEASE/pira-smart-PCB/v2_1)
+ * folder [6_RELEASE](https://github.com/IRNAS/pira-smart-2.0-hardware/tree/development/6_RELEASE/pira-smart-PCB/v2_1) includes latest release [version 2.1](https://github.com/IRNAS/pira-smart-2.0-hardware/tree/development/6_RELEASE/pira-smart-PCB/v2_1)
 
 ## Specification
 
