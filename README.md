@@ -15,6 +15,8 @@ PIRA Smart is a multifunctional device that can be used in any IoT project.
  * folder 6_RELEASE includes latest release version 2.1
 
 ## Specification
+Block diagram
+<img src="https://github.com/IRNAS/pira-smart-2.0-hardware/blob/development/4_DOC/pira_smart_block_diagram.png" height="350">
 
 Device consists of:
  * Microcontroller module Murata Type ABZ - CMWX1ZZABZ:
