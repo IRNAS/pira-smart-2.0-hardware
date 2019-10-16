@@ -15,8 +15,6 @@ PIRA Smart is a multifunctional device that can be used in any IoT project.
  * folder 6_RELEASE includes latest release version 2.1
 
 ## Specification
-Block diagram
-<img src="https://github.com/IRNAS/pira-smart-2.0-hardware/blob/development/4_DOC/pira_smart_block_diagram.png" height="350">
 
 Device consists of:
  * Microcontroller module Murata Type ABZ - CMWX1ZZABZ:
@@ -31,6 +29,24 @@ Device consists of:
  * RPi connector
  * GPIO header
  * Tag connect for programming TC2030
+
+Block diagram
+
+<img src="https://github.com/IRNAS/pira-smart-2.0-hardware/blob/development/4_DOC/pira_smart_block_diagram.png" height="420">
+
+Features:
+ * Single cell LiPo cell charging of up to 3A (multiple 18650 cells supported)
+ * Solar panel charging (Voltaic systems 6W panels in parallel recommended)
+ * USB charging
+ * Advanced current limiting, to support wide array of chargers
+ * Precise charging control via I2C (BQ24296RGET)
+ * Battery temperature protection with thermistor
+ * Battery reverse polarity protection and fuse (3A)
+ * High-current battery output MOSFET
+ * LoRa communication module with micro RF connector
+ * Advanced power scheduling for robust applications:
+   * ISL1208 RTC for configurable scheduled boot and timekeeping, with battery backup power supply to save power of the main battery
+   * Configurable power-up sources (RTC, charging, etc.)
 
 Dimensions:
  * Lenght: 65 mm
